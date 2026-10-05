@@ -1,17 +1,23 @@
-# digital_pet
+# Digital Pet State State Lab
+Digital pet simulation.
+This app gives clear feedback when the pet is fed, played with, or left over time.
 
-A new Flutter project.
+## Team Members & Roles
+| **Janiya Green** | **Iyana Halliburton** |
+|------------------|-----------------------|
+|Project Coordinator & State Owner|UI Owner & Quality Reviwer|
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Setup, Build, and Test Commands
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Pathway/Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Feature to outcome Rubric map
+
+## Screenshots & Test Evidence
+// ![Alt text](media/screenshot.png)
+
+## Assets Liscenses
+
+## Issue/PR Links
