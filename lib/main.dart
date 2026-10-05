@@ -31,8 +31,8 @@ class DigitalPetScreen extends StatefulWidget {
 
 class _DigitalPetScreenState extends State<DigitalPetScreen> {
   // initial game states & values
-  static const int _initialHappiness = 60;
-  static const int _initialHunger = 95;
+  static const int _initialHappiness = 50;
+  static const int _initialHunger = 50;
   static const int _initialEnergy = 70;
 
   int _happiness = _initialHappiness;
@@ -62,7 +62,7 @@ class _DigitalPetScreenState extends State<DigitalPetScreen> {
 
   void _startHungerTimer() {
     _hungerTimer?.cancel(); // no duplicate timers
-
+    
     _hungerTimer = Timer.periodic(_hungerTickInterval, (_) {
       if (!mounted || _gameOver || _hasWon) return;
 
