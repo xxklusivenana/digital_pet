@@ -6,6 +6,7 @@ This app gives clear feedback when the pet is fed, played with, or left over tim
 | **Janiya Green** | **Iyana Halliburton** |
 |------------------|-----------------------|
 |Project Coordinator & State Owner|UI Owner & Quality Reviwer|
+|Care Systems|Pet Personality|
 
 
 
@@ -16,7 +17,7 @@ This app gives clear feedback when the pet is fed, played with, or left over tim
 ## Feature to outcome Rubric map
 
 ## Screenshots & Test Evidence
-// ![Alt text](media/screenshot.png)
+// ![Alt text](assets/screenshot.png)
 
 ## Assets Liscenses
 
