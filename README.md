@@ -51,6 +51,8 @@ https://github.com/xxklusivenana/digital_pet/edit/team-2/pet-personality/README.
 
 https://github.com/xxklusivenana/digital_pet/blob/Jaay/README.md
 
+https://github.com/xxklusivenana/digital_pet/pull/6
+
 
 ## Test Evidence
 
