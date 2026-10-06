@@ -55,10 +55,11 @@ class _DigitalPetScreenState extends State<DigitalPetScreen> {
   final TextEditingController _nameController = TextEditingController(); 
  
   String get _petMessage { 
-    if (_gameOver) return 'Game Over! I am too tired!.'; 
+    if (_gameOver) return 'Game Over!.'; 
     if (_hasWon) return 'You Win! Best day ever! So Happy!'; 
     if (_hunger > 80) return "I'm starving!"; 
     if (_happiness <= 30) return 'Play with me? :()'; 
+    if (_energy < 20) return 'I am too sleepy!';
     return "Hi, I'm $_petName!"; 
   } 
  
@@ -73,6 +74,12 @@ class _DigitalPetScreenState extends State<DigitalPetScreen> {
  
   int _clamp(int val) => val.clamp(0, 100); 
  
+  @override
+  void initState() {
+    super.initState();
+    _startHungerTimer();
+  }
+
   @override 
   void dispose() { 
     _hungerTimer?.cancel(); 
