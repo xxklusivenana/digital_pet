@@ -12,7 +12,28 @@ This app gives clear feedback when the pet is fed, played with, or left over tim
 
 ## Setup, Build, and Test Commands
 
+flutter run
+
+flutter build apk --release
+
+flutter test
+
 ## Pathway/Features
+Care Systems
+Feed, Play, Rest, and Reset interactions
+Happiness, hunger, and energy meters
+Hunger timer
+Three-minute happiness win condition
+Game Over condition
+Bounded meter values from 0–100
+
+Pet Personality
+Custom pet name
+Derived pet messages
+Mood label and mood feedback
+Mood color tint based on happiness
+Animated pet feedback
+Animated meter feedback
 
 ## Feature to outcome Rubric map
 
@@ -20,8 +41,15 @@ This app gives clear feedback when the pet is fed, played with, or left over tim
 // ![Alt text](assets/screenshot.png)
 
 ## Assets Liscenses
+The pet image asset is included in the project under the assets/ directory.
+
+Free Stock Image. Free use. 
 
 ## Issue/PR Links
+
+https://github.com/xxklusivenana/digital_pet/edit/team-2/pet-personality/README.md
+
+
 
 ## Test Evidence
 
