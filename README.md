@@ -49,6 +49,7 @@ Free Stock Image. Free use.
 
 https://github.com/xxklusivenana/digital_pet/edit/team-2/pet-personality/README.md
 
+https://github.com/xxklusivenana/digital_pet/blob/Jaay/README.md
 
 
 ## Test Evidence
